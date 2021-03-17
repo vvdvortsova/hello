@@ -1,7 +1,3 @@
-module github.com/vvdvortsova/hello
+module src3/src2/hello
 
-go 1.15
-
-require (
-	github.com/vvdvortsova/greetings v0.0.0-20210315153632-ceff356ec83c // indirect
-)
+go 1.14
