@@ -1,3 +1,3 @@
-module src3/src2/hello
+module github.com/vvdvortsova/hello
 
 go 1.14
